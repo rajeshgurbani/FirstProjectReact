@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/rajeshgurbani/FirstProjectReact#readme",
   "dependencies": {
+    "@babel/core": "^7.10.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "webpack": "^4.43.0",
@@ -26,6 +27,8 @@
     "webpack-dev-server": "^3.11.0"
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.10.4",
+    "@babel/preset-react": "^7.10.4",
     "babel-core": "^6.26.3",
     "babel-loader": "^8.1.0",
     "babel-preset-env": "^1.7.0",
